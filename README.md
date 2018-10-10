@@ -1,0 +1,2 @@
+# Supremator
+Supreme autocheckout - Python
